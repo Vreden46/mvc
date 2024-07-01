@@ -1,0 +1,7 @@
+"filename", "language", "PHP", "comment", "blank", "total"
+"/home/torsten/php/src/Loader/Autoloader.php", "PHP", -10, 0, -12, -22
+"/home/torsten/php/src/Loader/config.php", "PHP", -5, 0, -1, -6
+"/home/torsten/php/src/Model/Con/Mypdo.php", "PHP", 16, 0, 10, 26
+"/home/torsten/php/src/Model/Main/Model.php", "PHP", 73, 12, 31, 116
+"/home/torsten/php/src/Model/Pdoartikel.php", "PHP", 13, 0, 11, 24
+"Total", "-", 87, 12, 39, 138

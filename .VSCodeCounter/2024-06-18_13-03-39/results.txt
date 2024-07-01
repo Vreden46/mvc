@@ -1,0 +1,38 @@
+Date : 2024-06-18 13:03:39
+Directory : /home/torsten/php/src/View
+Total : 9 files,  136 codes, 0 comments, 48 blanks, all 184 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| PHP      |          9 |        136 |          0 |         48 |        184 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                         |          9 |        136 |          0 |         48 |        184 |
+| . (Files)                                                 |          3 |         73 |          0 |          9 |         82 |
+| Detail                                                    |          6 |         63 |          0 |         39 |        102 |
+| Detail/Artikel                                            |          4 |         53 |          0 |         27 |         80 |
+| Detail/Home                                               |          1 |          4 |          0 |          4 |          8 |
+| Detail/Start                                              |          1 |          6 |          0 |          8 |         14 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                  | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
+| /home/torsten/php/src/View/Detail/Artikel/Allartikel.php  | PHP      |          9 |          0 |          6 |         15 |
+| /home/torsten/php/src/View/Detail/Artikel/Editartikel.php | PHP      |         18 |          0 |          8 |         26 |
+| /home/torsten/php/src/View/Detail/Artikel/Newartikel.php  | PHP      |         16 |          0 |          7 |         23 |
+| /home/torsten/php/src/View/Detail/Artikel/Oneartikel.php  | PHP      |         10 |          0 |          6 |         16 |
+| /home/torsten/php/src/View/Detail/Home/Viewhome.php       | PHP      |          4 |          0 |          4 |          8 |
+| /home/torsten/php/src/View/Detail/Start/Viewstart.php     | PHP      |          6 |          0 |          8 |         14 |
+| /home/torsten/php/src/View/Viewartikel.php                | PHP      |         28 |          0 |          3 |         31 |
+| /home/torsten/php/src/View/Viewfehler.php                 | PHP      |          2 |          0 |          1 |          3 |
+| /home/torsten/php/src/View/Viewindex.php                  | PHP      |         43 |          0 |          5 |         48 |
+| Total                                                     |          |        136 |          0 |         48 |        184 |
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
